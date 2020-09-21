@@ -5,4 +5,5 @@ class song
     @title = title
     @artist = artist
   end
+
 end
